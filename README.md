@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/40/a0/95/40a0951c06940b939e3d5476c3245648.jpg)
+![MasterHead](https://i.ytimg.com/vi/PaxZLE3IDlY/maxresdefault.jpg)
 
 <h1 align="center">Hi 👋, I'm KASIM EMRE ŞEKERSOY</h1>
 <h3 align="center">A passionate web developer from Türkiye</h3>
