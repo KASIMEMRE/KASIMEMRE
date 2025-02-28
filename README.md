@@ -4,3 +4,5 @@
 <h3 align="center">A passionate web developer from Türkiye</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASIMEMRE&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KASIMEMRE&theme=dark)
+
