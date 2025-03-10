@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm KASIM EMRE ŞEKERSOY</h1>
 <h3 align="center">A passionate web developer from Türkiye</h3>
+<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASIMEMRE&layout=compact&theme=dark)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KASIMEMRE&langs_count=10&theme=radical" alt="Top Langs" />
 
