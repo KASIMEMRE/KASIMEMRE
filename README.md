@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kas%C4%B1m%20Emre%20%C5%9Eekersoy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20.NET%20%26%20C%23&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=KASIMEMRE&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="header" width="100%" />
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@
 
 - 🎓 Studying **Management Information Systems** at **Necmettin Erbakan University**
 - 🛠️ Building backend projects with **C#, .NET and Entity Framework Core**
-- 🌱 Currently working through my **"Everything with .NET Core"** project series
 - 🎯 Goal: becoming a professional **web developer**
 - 📍 Based in **Kocaeli, Türkiye**
 
@@ -43,33 +42,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/KASIMEMRE/CinemaBookingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KASIMEMRE&repo=CinemaBookingSystem&theme=tokyonight&hide_border=true" alt="CinemaBookingSystem" />
-  </a>
-  <a href="https://github.com/KASIMEMRE/ToDoList">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KASIMEMRE&repo=ToDoList&theme=tokyonight&hide_border=true" alt="ToDoList" />
-  </a>
-  <a href="https://github.com/KASIMEMRE/LibraryApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KASIMEMRE&repo=LibraryApp&theme=tokyonight&hide_border=true" alt="LibraryApp" />
-  </a>
-  <a href="https://github.com/KASIMEMRE/TaskTrackerCLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KASIMEMRE&repo=TaskTrackerCLI&theme=tokyonight&hide_border=true" alt="TaskTrackerCLI" />
-  </a>
-</p>
-
-| Project | What it does |
-|---|---|
-| 🎬 **[CinemaBookingSystem](https://github.com/KASIMEMRE/CinemaBookingSystem)** | Cinema booking API with showtime management, seat reservation and showtime conflict detection (.NET 10, EF Core) |
-| ✅ **[ToDoList](https://github.com/KASIMEMRE/ToDoList)** | Secure RESTful API with per-user data isolation, part 1 of the "Everything with .NET Core" series |
-| 📚 **[LibraryApp](https://github.com/KASIMEMRE/LibraryApp)** | Library management system |
-| 🗂️ **[TaskTrackerCLI](https://github.com/KASIMEMRE/TaskTrackerCLI)** | Command-line task tracker |
-| 📊 **[GitHubActivity](https://github.com/KASIMEMRE/GitHubActivity)** | Terminal app that fetches and processes GitHub activity data |
 
 ---
 
